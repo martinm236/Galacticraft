@@ -557,6 +557,14 @@ gui.spaceRace.chat.alreadyPart=Už jsi součástí vesmírného závodu!
 gui.spaceRace.unnamed=Nepojmenovaný tým
 gui.spaceRace.comingSoon=Již brzy!
 
+gui.message.thermalStatus.name=
+gui.status.on.name=Zapnuto
+gui.status.off.name=Vypnuto
+gui.status.notAvailable.name=N/A
+gui.thermalSlot.desc.0=Thermal attachment slot, place 'Ambient
+gui.thermalSlot.desc.1=tepelný regulátor' zde (volutelně)
+gui.thermalSlot.desc.2=Note: Potřebuji více energie! 
+
 # DIMENSIONS
 dimension.Overworld.name=Zemský povrh
 dimension.Moon.name=Měsic
